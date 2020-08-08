@@ -1,4 +1,4 @@
-package com.tet.databasemetadata;
+package com.test.databasemetadata;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
@@ -24,5 +24,4 @@ public class DatabaseMetaDataExample {
 			con.close();
 		}
 	}
-
 }
