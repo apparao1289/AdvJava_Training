@@ -1,0 +1,18 @@
+INterview questions:
+===================
+1. Explain life cycle of servlet?
+2. Difference between GenericServlet and HttpServlet?
+3. Difference between Http get and post methods?
+3. How one servlet communicates to other servlet?
+4. Difference between forward() and include()?
+5. Differenc between forward() and sendRedirect()?
+6. Explaing session tracking in servlet?
+7. Explain attributes in servlet?
+8. Explain the different scopes in servlet?
+9. Which attributes are thread safe?  Ans: request attributes
+10. Which attribues are serilizable? And: session attribues ( session is serilizable)
+11. why we go for filtes?
+12 Explain life cycle of filter
+13. Explain different listener available in servlet?
+14. Explain RequestDispathcer inteface?
+
