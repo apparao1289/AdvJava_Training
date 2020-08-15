@@ -1,0 +1,8 @@
+1. Write a password validator which ensures that passwords meet the following criteria:
+ Between 6 and 10 characters long Contain at least one digit Contain at least one upper case letter
+
+2. Write a service to register a user into the application. 
+User is uniquely identified by email Id. First name, last name and password are mandatory to register. 
+If user with same id exists then registration will fail. 
+If there is no existing user then save the user into database and a validation email is triggered to user. 
+Password is encrypted before inserting into DB by a open source library API
